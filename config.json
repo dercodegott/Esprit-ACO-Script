@@ -1,0 +1,14 @@
+{
+    "request_URL":"https://www.esprit.at/on/demandware.store/Sites-EspritCentralHub-Site/de_AT/Product-Variation?dwvar_991EE2K301__100_color=100&dwvar_991EE2K301__100_size=S&pid=991EE2K301_100&quantity=1&requestedQuantity=1.0",
+    "product_URL":"https://www.esprit.at/p/jersey-t-shirt-aus-100--organic-cotton-4063702379580.html",
+    "Webhook":"https://discord.com/api/webhooks/911008088906154014/PgyCvnPTe3WsiMq7mUKCAxE_XNStbql5_2xotwL49c_w5f8zbqqcvoAsIDj2uDfg0bJr",
+    "instock_Delay":600,
+    "OOS_Delay": 60,
+    "billing_Email": "test@gmail.com",
+    "billing_Country":"AT",
+    "firstName":"Test",
+    "lastName":"Test"
+
+}
+    
+
